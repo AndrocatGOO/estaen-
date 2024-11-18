@@ -1,7 +1,7 @@
 import pandas as pd
 import googlemaps
 import logging
-gmaps = googlemaps.Client(key='AIzaSyBfVgoN1Xlz6R7byGCnDK0s4vLK1rBvNOw')
+gmaps = googlemaps.Client(key='asd')
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
